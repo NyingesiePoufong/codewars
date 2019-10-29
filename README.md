@@ -1,4 +1,15 @@
 # codewars
+
+Daily/weekly Javascript Codewars Practice and Solutions. 
+
+I typically put the link to the problem in my solutions. 
+
+The link to codewars is below:
+https://www.codewars.com/dashboard
+
+![codewars icon](https://i.imgur.com/2LTDqtO.png)
+
+
 RC codewars
 test inital commit
 
