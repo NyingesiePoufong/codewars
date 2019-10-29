@@ -3,10 +3,6 @@
 // const monkeyCount = (n) => Array.from({length: n}, (v, k) => k+1) ;
 //
 // console.log(monkeyCount(5))
-//
-// const monkeyCount = (n) => {
-//
-// }
 
 function monkeyCount(n) {
   // create an empty array
