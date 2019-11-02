@@ -1,8 +1,8 @@
 # codewars
 
-Daily/weekly Javascript Codewars Practice and Solutions. 
+Daily/weekly Javascript Codewars Practice and Solutions.
 
-I typically put the link to the problem in my solutions. 
+I typically put the link to the problem in my solutions.
 
 The link to codewars is below:
 https://www.codewars.com/dashboard
@@ -13,7 +13,7 @@ https://www.codewars.com/dashboard
 RC codewars
 test inital commit
 
-git status 
+git status
 git add (add untracks untracked files to the git session )
 git commit -m (update cloud file/respoitory; what people will actually see and updates snapshot)
 git pull (bring to mac)
